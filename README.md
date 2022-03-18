@@ -20,3 +20,7 @@ Env variables can be set
 - ws port - default 9092
 - udp port - default 9093
 - udp reply port - default 9094
+
+## Docket
+
+`ghcr.io/asad-awadia/echo-server:latest`
